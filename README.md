@@ -90,7 +90,6 @@
 ---
 
 ### ✨ My Projects
-### ✨ My Projects
 <table>
   <tr>
     <td width="33%">
@@ -144,7 +143,15 @@
         <li><a href="https://github.com/anantar/kelurahan-dashboard">🔗 View Project</a></li>
       </ul>
     </td>
-    <td></td>
+    <td width="33%">
+      <h4>📊 Kelurahan Dashboard</h4>
+      <ul>
+        <li>PHP + WordPress + MySQL</li>
+        <li>Data Wilayah, Berita, Aparatur</li>
+        <li>Custom Table + Shortcode</li>
+        <li><a href="https://github.com/anantar/kelurahan-dashboard">🔗 View Project</a></li>
+      </ul>
+    </td>
   </tr>
 </table>
 
