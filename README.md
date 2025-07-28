@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Ananta;Laravel+%2B+IoT+Developer;Lifelong+Learner" alt="Typing SVG" />
-</p>
+<marquee direction="left" scrollamount="8">
+  <h1>Hi 👋, I'm Ananta — Laravel + IoT Developer 🚀</h1>
+</marquee>
+
 
 
 <p align="center">🚀 Web Developer | 📱 Android Developer | 🔧 IoT Enthusiast</p>
