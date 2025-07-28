@@ -12,7 +12,7 @@
 ---
 
 ### 🛠️ Languages and Tools
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
@@ -62,5 +62,6 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75252&width=435&lines=Hi!+I'm+Ananta;Laravel+%2B+IoT+Developer;Lifelong+learner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=3000&pause=1000&color=F7FF3C&background=000000&center=true&vCenter=true&width=600&lines=👾+Hi!+I'm+Ananta;👨‍💻+Laravel+%2B+IoT+Developer;📚+Lifelong+Learner;🎮+Retro+Game+Enthusiast" />
 </p>
+
