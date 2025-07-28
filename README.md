@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ananta</h1>
-<p align="center">🚀 Web & Android Developer | IoT Enthusiast | Laravel, Flutter & Firebase</p>
+<p align="center">🚀 Web Developer | 📱 Android Developer | 🔧 IoT Enthusiast</p>
 
-- 🌱 I’m currently working on **Laravel IoT Projects and Android Apps**
-- 📱 Building Android apps with **Flutter** and **Firebase**
-- 🔭 I’m currently learning **ESP32 and Real-time Firebase**
-- 📫 How to reach me: **email@example.com**
+- 💻 As a **Web Developer**, I'm currently working on several **Laravel-based projects**, focusing on dynamic and database-driven applications.
+- 📱 As an **Android Developer**, I'm building **mobile apps using Flutter** integrated with Firebase for real-time data.
+- 🔧 As an **IoT Enthusiast**, I'm exploring **ESP32**, Firebase Realtime Database, and sensors for air quality monitoring.
+
+- 🔭 Currently diving deeper into **Realtime IoT Systems**
+- 📫 How to reach me: **ananta076238@email.com**
 - 🧠 Fun fact: I love building useful things from scratch
 
 ---
