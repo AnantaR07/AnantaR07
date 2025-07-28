@@ -90,10 +90,16 @@
 ---
 
 ### ✨ My Projects
-<table> <tr> <td width="33%">
-  <h4>🌬️ Smart Air Quality Monitor</h4> <ul> <li>ESP32 + Firebase Realtime</li> <li>Telegram Notification</li> <li>Sensor: PM2.5, CO, VOC</li> <li><a href="https://github.com/anantar/air-quality-monitor">🔗 View Project</a></li> </ul> </td> <td width="33%"> 
-    <h4>🌐 UMKM Laravel Website</h4> <ul> <li>Laravel + MySQL</li> <li>Pinjam Barang & Notifikasi</li> <li>Firebase Storage Integration</li> <li><a href="https://github.com/anantar/umkm-laravel">🔗 View Project</a></li> </ul> </td> <td width="33%"> 
-      <h4>📱 Air Quality Alert App</h4> <ul> <li>Flutter + Firebase</li> <li>Realtime Air Monitoring</li> <li>Clean UI + Push Notification</li> <li><a href="https://github.com/anantar/android-air-quality-alert">🔗 View Project</a></li> </ul> </td> </tr>
+<table> <tr>
+  <td width="50%"> <h4>🌬️ Smart Air Quality Monitor</h4> <ul> <li>ESP32 + Firebase Realtime</li> <li>Telegram Notification</li> <li>Sensors: PM2.5, CO, VOC</li> <li><a href="https://github.com/anantar/air-quality-monitor">🔗 View Project</a></li> </ul> </td>
+  <td width="50%"> <h4>🌐 UMKM Laravel Website</h4> <ul> <li>Laravel + MySQL</li> <li>Pinjam Barang & Notifikasi</li> <li>Firebase Storage Integration</li> <li><a href="https://github.com/anantar/umkm-laravel">🔗 View Project</a></li> </ul> </td> </tr> 
+  <tr> 
+    <td width="50%"> <h4>📱 Air Quality Alert App</h4> <ul> <li>Flutter + Firebase</li> <li>Realtime Air Monitoring</li> <li>Clean UI + Push Notification</li> <li><a href="https://github.com/anantar/android-air-quality-alert">🔗 View Project</a></li> </ul> </td> 
+    <td width="50%"> <h4>🛰️ IoT Telegram Bot</h4> <ul> <li>ESP32 + Bot Telegram API</li> <li>Kirim pesan saat ambang batas tercapai</li> <li>Realtime alerting system</li> <li><a href="https://github.com/anantar/esp32-telegram-alert">🔗 View Project</a></li> </ul> </td> </tr> 
+  <tr> 
+    <td colspan="2"> <h4>📊 Laravel Dashboard for Sensor Data</h4> <ul> <li>Laravel + Chart.js</li> <li>Realtime data monitoring</li> <li>Custom admin panel with auth</li> <li><a href="https://github.com/anantar/laravel-sensor-dashboard">🔗 View Project</a></li> </ul>
+    </td>
+  </tr> 
 </table>
 
 ###
