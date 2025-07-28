@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ananta</h1>
 
 ###
-===
+
 <p align="center">🚀 Web Developer | 📱 Android Developer | 🔧 IoT Enthusiast</p>
 
 ###
+---
 
 <h4 align="left">🛠️ Languages and Tools</h4>
 
