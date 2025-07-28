@@ -1,6 +1,4 @@
-<marquee align="center" scrollamount="8">
-  <h1>Hi 👋, I'm Ananta</h1>
-</marquee>
+  <h 1align="center">Hi 👋, I'm Ananta</h1>
 
 
 
