@@ -93,31 +93,31 @@
 <table align="center">
   <tr>
     <td width="33%">
-      <h4>🌬️ Smart Air Quality Monitor</h4>
+      <h4>🌬📱 Pemantauan Udara Rumah Sakit Dr.Soedarmo Trenggalek</h4>
       <ul>
-        <li>ESP32 + Firebase Realtime</li>
+        <li>ESP32 + Laravel</li>
         <li>Telegram Notification</li>
-        <li>Sensor: PM2.5, CO, VOC</li>
-        <li><a href="https://github.com/anantar/air-quality-monitor">🔗 View Project</a></li>
+        <li>Sensor: PM2.5, CO, VOC, Temperature & Air Humidity</li>
+        <li><a href="https://github.com/AnantaR07/AnantaR07-Pemantauan-Udara-Rumah-Sakit-Dr.Soedarmo-Trenggalek">🔗 View Project</a></li>
       </ul>
     </td>
     <td width="33%">
-      <h4>🌐 UMKM Laravel Website</h4>
-      <ul>
-        <li>Laravel + MySQL</li>
-        <li>Pinjam Barang & Notifikasi</li>
-        <li>Firebase Storage Integration</li>
-        <li><a href="https://github.com/anantar/umkm-laravel">🔗 View Project</a></li>
-      </ul>
+  <h4>🐟 Smart Fish Feeder</h4>
+  <ul>
+    <li>Firebase + React</li>
+    <li>Online Feeding Control</li>
+    <li>Manage Pond Locations</li>
+    <li><a href="https://github.com/AnantaR07/FishFeeder">🔗 View Project</a></li>
+  </ul>
     </td>
     <td width="33%">
-      <h4>📱 Air Quality Alert App</h4>
-      <ul>
-        <li>Flutter + Firebase</li>
-        <li>Realtime Air Monitoring</li>
-        <li>Clean UI + Push Notification</li>
-        <li><a href="https://github.com/anantar/android-air-quality-alert">🔗 View Project</a></li>
-      </ul>
+<h4>🔐 LockSense</h4>
+<ul>
+  <li>RFID + RSA Key Authentication</li>
+  <li>Secure Door Access System</li>
+  <li>Web Interface to Open Door</li>
+  <li><a href="https://github.com/AnantaR07/LockSense">🔗 View Project</a></li>
+</ul>
     </td>
   </tr>
 
@@ -126,31 +126,31 @@
 
   <tr>
     <td width="33%">
-      <h4>💡 IoT Waste Management</h4>
-      <ul>
-        <li>NodeMCU + Ultrasonic</li>
-        <li>Smart Trash Monitoring</li>
-        <li>SMS Alerts (Twilio)</li>
-        <li><a href="https://github.com/anantar/iot-smart-trashbin">🔗 View Project</a></li>
-      </ul>
+<h4>🖼️ Artosite</h4>
+<ul>
+  <li>React-Based Art Marketplace</li>
+  <li>Buy & Sell Paintings Online</li>
+  <li>User-Friendly Interface</li>
+  <li><a href="https://github.com/AnantaR07/ArtositeRebuild">🔗 View Project</a></li>
+</ul>
     </td>
     <td width="33%">
-      <h4>📊 Kelurahan Dashboard</h4>
-      <ul>
-        <li>PHP + WordPress + MySQL</li>
-        <li>Data Wilayah, Berita, Aparatur</li>
-        <li>Custom Table + Shortcode</li>
-        <li><a href="https://github.com/anantar/kelurahan-dashboard">🔗 View Project</a></li>
-      </ul>
+<h4>🏢 SecureSense</h4>
+<ul>
+  <li>React + Firebase</li>
+  <li>Monitoring Ruangan PT. Citra Pratama</li>
+  <li>Realtime Sensor & Data Visualization</li>
+  <li><a href="https://github.com/AnantaR07/SecureSense">🔗 View Project</a></li>
+</ul>
     </td>
     <td width="33%">
-      <h4>📊 Kelurahan Dashboard</h4>
-      <ul>
-        <li>PHP + WordPress + MySQL</li>
-        <li>Data Wilayah, Berita, Aparatur</li>
-        <li>Custom Table + Shortcode</li>
-        <li><a href="https://github.com/anantar/kelurahan-dashboard">🔗 View Project</a></li>
-      </ul>
+<h4>🏘️ Website Kecamatan Bintan Timur</h4>
+<ul>
+  <li>Bootstrap + PHP + WordPress</li>
+  <li>Kelola Data Desa & Berita</li>
+  <li>Custom Table & Shortcode</li>
+  <li><a href="https://github.com/AnantaR07/websitekecamatanbintantimur">🔗 View Project</a></li>
+</ul>
     </td>
   </tr>
 </table>
