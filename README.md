@@ -1,5 +1,5 @@
-<marquee direction="left" scrollamount="8">
-  <h1>Hi 👋, I'm Ananta — Laravel + IoT Developer 🚀</h1>
+<marquee direction="center" scrollamount="8">
+  <h1>Hi 👋, I'm Ananta</h1>
 </marquee>
 
 
