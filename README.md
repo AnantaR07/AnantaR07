@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ananta</h1>
 
 ###
-
+===
 <p align="center">🚀 Web Developer | 📱 Android Developer | 🔧 IoT Enthusiast</p>
 
 ###
@@ -98,7 +98,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ananta.ananta&"  />
 </div>
 
