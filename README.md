@@ -90,7 +90,7 @@
 ---
 
 ### ✨ My Projects
-<table> <tr>
+<table align="center"> <tr>
   <td width="50%"> <h4>🌬️ Smart Air Quality Monitor</h4> <ul> <li>ESP32 + Firebase Realtime</li> <li>Telegram Notification</li> <li>Sensors: PM2.5, CO, VOC</li> <li><a href="https://github.com/anantar/air-quality-monitor">🔗 View Project</a></li> </ul> </td>
   <td width="50%"> <h4>🌐 UMKM Laravel Website</h4> <ul> <li>Laravel + MySQL</li> <li>Pinjam Barang & Notifikasi</li> <li>Firebase Storage Integration</li> <li><a href="https://github.com/anantar/umkm-laravel">🔗 View Project</a></li> </ul> </td> </tr> 
   <tr> 
