@@ -159,7 +159,7 @@
 
 <picture>
 <!-- Crop GIF jadi tipis, tanpa mengecilkan -->
-<img src="NightShift.gif" style="width:100%; object-fit:cover;" alt="Animated Background" />
+<img src="Back.png" style="width:100%; object-fit:cover;" alt="Animated Background" />
 </picture>
 
 ###
