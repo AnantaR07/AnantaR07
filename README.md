@@ -81,7 +81,7 @@
 
 <picture>
 <!-- Crop GIF jadi tipis, tanpa mengecilkan -->
-<img src="background.gif" style="width:100%; height:120px; object-fit:cover;" alt="Animated Background" />
+<img src="NightShift.gif" style="width:100%; object-fit:cover;" alt="Animated Background" />
 </picture>
 
 ###
