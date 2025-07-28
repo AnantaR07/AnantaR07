@@ -80,7 +80,7 @@
 ###
 
 <picture>
-<img src="background.gif" width="100%" alt="Animated Background" />
+<img src="background.gif" width="100%" height="100" alt="Animated Background" />
 </picture>
 
 ###
