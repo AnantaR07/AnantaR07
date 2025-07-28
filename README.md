@@ -93,7 +93,7 @@
 <table align="center">
   <tr>
     <td width="33%">
-      <h4>🌬📱 Pemantauan Udara Rumah Sakit Dr.Soedarmo Trenggalek</h4>
+      <h4>🌬📱 Air Monitoring at Dr. Soedarmo Hospital, Trenggalek</h4>
       <ul>
         <li>ESP32 + Laravel</li>
         <li>Telegram Notification</li>
@@ -138,16 +138,16 @@
 <h4>🏢 SecureSense</h4>
 <ul>
   <li>React + Firebase</li>
-  <li>Monitoring Ruangan PT. Citra Pratama</li>
+  <li>PT. Citra Pratama's Indoor Air Monitoring</li>
   <li>Realtime Sensor & Data Visualization</li>
   <li><a href="https://github.com/AnantaR07/SecureSense">🔗 View Project</a></li>
 </ul>
     </td>
     <td width="33%">
-<h4>🏘️ Website Kecamatan Bintan Timur</h4>
+<h4>🏘️ Website Kec. Bintan Timur</h4>
 <ul>
   <li>Bootstrap + PHP + WordPress</li>
-  <li>Kelola Data Desa & Berita</li>
+  <li>Manage Village Data & News</li>
   <li>Custom Table & Shortcode</li>
   <li><a href="https://github.com/AnantaR07/websitekecamatanbintantimur">🔗 View Project</a></li>
 </ul>
