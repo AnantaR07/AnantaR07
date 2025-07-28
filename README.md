@@ -97,4 +97,5 @@
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ananta.ananta&"  />
 </div>
-<div style="border-top: 1px solid white; margin: 20px 0;"></div>
+<hr style="border: 1px solid white;" />
+
