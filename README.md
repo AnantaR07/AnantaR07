@@ -23,9 +23,10 @@
 
 ---
 
+### 🧰 Toolbox I Use
 <p align="center"> 
 <!-- Code Editors -->
- <img src="https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> 
+<img src="https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/> <!-- API & Testing -->
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <!-- Design --> 
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <!-- Version Control -->
@@ -42,9 +43,10 @@
 ---
 
 ### ✨ My Projects
-- 🔗 [Smart Air Quality Monitor](https://github.com/anantar/air-quality-monitor)
-- 🔗 [UMKM Laravel Website](https://github.com/anantar/umkm-laravel)
-- 🔗 [Android App - Air Quality Alert](https://github.com/anantar/android-air-quality-alert)
+<table> <tr> <td width="33%">
+  <h4>🌬️ Smart Air Quality Monitor</h4> <ul> <li>ESP32 + Firebase Realtime</li> <li>Telegram Notification</li> <li>Sensor: PM2.5, CO, VOC</li> <li><a href="https://github.com/anantar/air-quality-monitor">🔗 View Project</a></li> </ul> </td> <td width="33%"> 
+    <h4>🌐 UMKM Laravel Website</h4> <ul> <li>Laravel + MySQL</li> <li>Pinjam Barang & Notifikasi</li> <li>Firebase Storage Integration</li> <li><a href="https://github.com/anantar/umkm-laravel">🔗 View Project</a></li> </ul> </td> <td width="33%"> 
+      <h4>📱 Air Quality Alert App</h4> <ul> <li>Flutter + Firebase</li> <li>Realtime Air Monitoring</li> <li>Clean UI + Push Notification</li> <li><a href="https://github.com/anantar/android-air-quality-alert">🔗 View Project</a></li> </ul> </td> </tr> </table>
 
 ---
 
