@@ -90,7 +90,7 @@
 ---
 
 ### ✨ My Projects
-<table>
+<table align="center">
   <tr>
     <td width="33%">
       <h4>🌬️ Smart Air Quality Monitor</h4>
