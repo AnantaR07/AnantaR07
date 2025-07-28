@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ananta</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Ananta;Laravel+%2B+IoT+Developer;Lifelong+Learner" alt="Typing SVG" />
+</p>
+
 
 <p align="center">🚀 Web Developer | 📱 Android Developer | 🔧 IoT Enthusiast</p>
 
@@ -7,7 +10,6 @@
 - 🔧 As an **IoT Enthusiast**, I'm exploring **ESP32**, Firebase Realtime Database, and sensors for air quality monitoring.
 
 - 🔭 Currently diving deeper into **Realtime IoT Systems**
-- 📫 How to reach me: **ananta076238@email.com**
 - 🧠 Fun fact: I love building useful things from scratch
 
 ###
