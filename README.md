@@ -46,7 +46,8 @@
 <table> <tr> <td width="33%">
   <h4>🌬️ Smart Air Quality Monitor</h4> <ul> <li>ESP32 + Firebase Realtime</li> <li>Telegram Notification</li> <li>Sensor: PM2.5, CO, VOC</li> <li><a href="https://github.com/anantar/air-quality-monitor">🔗 View Project</a></li> </ul> </td> <td width="33%"> 
     <h4>🌐 UMKM Laravel Website</h4> <ul> <li>Laravel + MySQL</li> <li>Pinjam Barang & Notifikasi</li> <li>Firebase Storage Integration</li> <li><a href="https://github.com/anantar/umkm-laravel">🔗 View Project</a></li> </ul> </td> <td width="33%"> 
-      <h4>📱 Air Quality Alert App</h4> <ul> <li>Flutter + Firebase</li> <li>Realtime Air Monitoring</li> <li>Clean UI + Push Notification</li> <li><a href="https://github.com/anantar/android-air-quality-alert">🔗 View Project</a></li> </ul> </td> </tr> </table>
+      <h4>📱 Air Quality Alert App</h4> <ul> <li>Flutter + Firebase</li> <li>Realtime Air Monitoring</li> <li>Clean UI + Push Notification</li> <li><a href="https://github.com/anantar/android-air-quality-alert">🔗 View Project</a></li> </ul> </td> </tr>
+</table>
 
 ---
 
@@ -56,4 +57,10 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> </a> <a href="https://instagram.com/username" target="_blank"> 
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="https://t.me/username" target="_blank"> 
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/> </a> 
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75252&width=435&lines=Hi!+I'm+Ananta;Laravel+%2B+IoT+Developer;Lifelong+learner" />
 </p>
