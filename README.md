@@ -80,9 +80,7 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ananta/ananta/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ananta/ananta/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ananta/ananta/output/pacman-contribution-graph.svg">
+<img src="background.gif" width="100%" alt="Animated Background" />
 </picture>
 
 ###
