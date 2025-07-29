@@ -67,7 +67,7 @@
         <li>ESP32 + Laravel</li>
         <li>Telegram Notification</li>
         <li>Sensor: PM2.5, CO, VOC, Temperature & Air Humidity</li>
-        <li><a href="https://github.com/AnantaR07/AnantaR07-Pemantauan-Udara-Rumah-Sakit-Dr.Soedarmo-Trenggalek">🔗 View Project</a></li>
+        <li><a href="https://github.com/AnantaR07/AnantaR07-Pemantauan-Udara-Rumah-Sakit-Dr.Soedarmo-Trenggalek"><span style="display:none">🔗</span>View Project</a></li>
       </ul>
     </td>
     <td width="33%">
@@ -76,7 +76,7 @@
         <li>Firebase + React</li>
         <li>Online Feeding Control</li>
         <li>Manage Pond Locations</li>
-        <li><a href="https://github.com/AnantaR07/FishFeeder">🔗 View Project</a></li>
+        <li><a href="https://github.com/AnantaR07/FishFeeder"><span style="display:none">🔗</span>View Project</a></li>
       </ul>
     </td>
     <td width="33%">
@@ -85,7 +85,7 @@
         <li>RFID + RSA Key Authentication</li>
         <li>Secure Door Access System</li>
         <li>Web Interface to Open Door</li>
-        <li><a href="https://github.com/AnantaR07/LockSense">🔗 View Project</a></li>
+        <li><a href="https://github.com/AnantaR07/LockSense"><span style="display:none">🔗</span>View Project</a></li>
       </ul>
     </td>
   </tr>
@@ -99,7 +99,7 @@
         <li>React-Based Art Marketplace</li>
         <li>Buy & Sell Paintings Online</li>
         <li>User-Friendly Interface</li>
-        <li><a href="https://github.com/AnantaR07/ArtositeRebuild">🔗 View Project</a></li>
+        <li><a href="https://github.com/AnantaR07/ArtositeRebuild"><span style="display:none">🔗</span>View Project</a></li>
       </ul>
     </td>
     <td width="33%">
@@ -108,7 +108,7 @@
         <li>React + Firebase</li>
         <li>PT. Citra Pratama's Indoor Air Monitoring</li>
         <li>Realtime Sensor & Data Visualization</li>
-        <li><a href="https://github.com/AnantaR07/SecureSense">🔗 View Project</a></li>
+        <li><a href="https://github.com/AnantaR07/SecureSense"><span style="display:none">🔗</span>View Project</a></li>
       </ul>
     </td>
     <td width="33%">
@@ -117,7 +117,7 @@
         <li>Bootstrap + PHP + WordPress</li>
         <li>Manage Village Data & News</li>
         <li>Custom Table & Shortcode</li>
-        <li><a href="https://github.com/AnantaR07/websitekecamatanbintantimur">🔗 View Project</a></li>
+        <li><a href="https://github.com/AnantaR07/websitekecamatanbintantimur"><span style="display:none">🔗</span>View Project</a></li>
       </ul>
     </td>
   </tr>
