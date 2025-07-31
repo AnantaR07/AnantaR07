@@ -165,7 +165,7 @@
 <p align="left"><strong><em>🌄 Background</em></strong></p>
 
 
-<img src="BG.jpg" alt="Animated Background" style="width:100%;max-height:200px;object-fit:cover;" />
+<img src="Latar.jpg" alt="Animated Background" style="width:100%;max-height:200px;object-fit:cover;" />
 
 ---
 <p align="left"><strong><em>📫 Contact Me</em></strong></p>
