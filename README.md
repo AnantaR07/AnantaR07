@@ -3,8 +3,6 @@
 </p>
 
 
-
-
 <p align="center">🚀 Web Developer | 📱 Android Developer | 🔧 IoT Enthusiast</p>
 
 - 💻 As a **Web Developer**, I'm currently working on several **Laravel-based projects**, focusing on dynamic and database-driven applications.  
@@ -16,7 +14,7 @@
 
 ---
 
-<p align="center"><strong><em>🛠️ Languages and Tools</em></strong></p>
+<p align="left"><strong><em>🛠️ Languages and Tools</em></strong></p>
 
 
 <p align="center">
@@ -37,8 +35,7 @@
 </p>
 
 ---
-
-## 🧰 Toolbox I Use
+<p align="left"><strong><em>🧰 Toolbox I Use</em></strong></p>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" style="margin:4px;" />
@@ -53,7 +50,7 @@
 
 ---
 
-## 📊 GitHub Stats
+<p align="left"><strong><em>📊 GitHub Stats</em></strong></p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ananta&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura_dark&locale=en&hide_border=false&order=1" height="150" />
@@ -62,7 +59,7 @@
 
 ---
 
-## ✨ My Projects
+<p align="left"><strong><em>✨ My Projects</em></strong></p>
 
 <div style="overflow-x:auto;">
 <table>
@@ -131,14 +128,13 @@
 </div>
 
 ---
+<p align="left"><strong><em>🌄 Background</em></strong></p>
 
-## 🌄 Background
 
 <img src="Back.png" alt="Animated Background" style="width:100%;max-height:200px;object-fit:cover;" />
 
 ---
-
-###📫 Contact Me
+<p align="left"><strong><em>📫 Contact Me</em></strong></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ananta-r/" target="_blank" style="display:inline-block;margin:4px;">
