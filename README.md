@@ -1,4 +1,4 @@
-<p align="center">
+#<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F75252&center=true&vCenter=true&width=500&lines=🚀+Hi+👋,+I'm+Ananta" />
 </p>
 
@@ -16,7 +16,7 @@
 
 ---
 
-### 🛠️ Languages and Tools
+## 🛠️ Languages and Tools
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" style="margin:4px;" />
@@ -37,7 +37,7 @@
 
 ---
 
-### 🧰 Toolbox I Use
+## 🧰 Toolbox I Use
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" style="margin:4px;" />
@@ -52,7 +52,7 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ananta&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura_dark&locale=en&hide_border=false&order=1" height="150" />
@@ -61,7 +61,7 @@
 
 ---
 
-### ✨ My Projects
+## ✨ My Projects
 
 <div style="overflow-x:auto;">
 <table>
@@ -131,13 +131,13 @@
 
 ---
 
-### 🌄 Background
+## 🌄 Background
 
 <img src="Back.png" alt="Animated Background" style="width:100%;max-height:200px;object-fit:cover;" />
 
 ---
 
-### 📫 Contact Me
+###📫 Contact Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ananta-r/" target="_blank" style="display:inline-block;margin:4px;">
