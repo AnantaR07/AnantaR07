@@ -16,7 +16,8 @@
 
 ---
 
-## 🛠️ Languages and Tools
+<p align="center"><strong><em>🛠️ Languages and Tools</em></strong></p>
+
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" style="margin:4px;" />
