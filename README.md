@@ -65,7 +65,7 @@
 <table>
   <tr>
     <td width="33%">
-      <h4>🌬📱 Air Monitoring at Dr. Soedarmo Hospital, Trenggalek</h4>
+     <p align="left"><strong>🌬📱 Air Monitoring at Dr. Soedarmo Hospital, Trenggalek</strong></p>
       <ul>
         <li>ESP32 + Laravel</li>
         <li>Telegram Notification</li>
