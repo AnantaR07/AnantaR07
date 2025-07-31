@@ -124,6 +124,40 @@
       </ul>
     </td>
   </tr>
+
+  <tr><td colspan="3" height="20"></td></tr>
+
+<tr>
+    <td width="33%">
+  <p align="left"><strong>🫁 Lunas</strong></p>
+  <ul>
+    <li>Dart-Based Educational Game</li>
+    <li>Focuses on Human Respiratory System</li>
+    <li>Interactive, Fun, and Informative Questions</li>
+    <li><a href="https://github.com/AnantaR07/Lunas-LudoCerdas">View Project</a></li>
+  </ul>
+</td>
+<td width="33%">
+  <p align="left"><strong>🌿 Smart Plant Monitor</strong></p>
+  <ul>
+    <li>React + Firebase Integration</li>
+    <li>Monitoring Tomato and Strawberry Plants</li>
+    <li>Realtime Sensor Data and Environmental Tracking</li>
+    <li><a href="https://github.com/AnantaR07/KelembabanTomatStrobery">View Project</a></li>
+  </ul>
+</td>
+  <td width="33%">
+  <p align="left"><strong>🧵 Creaftyartisan</strong></p>
+  <ul>
+    <li>PHP + MySQL + Bootstrap</li>
+    <li>Online Marketplace for Handmade Crafts</li>
+    <li>Focus on Recycling Materials into Art</li>
+    <li><a href="https://github.com/AnantaR07/Macro-CreaftyArtisan">View Project</a></li>
+  </ul>
+</td>
+  </tr>
+
+
 </table>
 </div>
 
