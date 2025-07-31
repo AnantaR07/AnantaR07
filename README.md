@@ -1,4 +1,9 @@
-<p align="center"><strong><em>🚀 Hi 👋, I'm Ananta</em></strong></p>
+<p align="center">
+  <strong>████████████████████</strong><br>
+  <strong>Hi 👋, I'm Ananta</strong><br>
+  <strong>████████████████████</strong>
+</p>
+
 
 
 <p align="center">🚀 Web Developer | 📱 Android Developer | 🔧 IoT Enthusiast</p>
