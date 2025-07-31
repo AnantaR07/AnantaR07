@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ananta</h1>
+p align="center" style="font-size:28px; font-weight:bold;">Hi 👋, I'm Ananta</p>
 
 <p align="center">🚀 Web Developer | 📱 Android Developer | 🔧 IoT Enthusiast</p>
 
