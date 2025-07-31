@@ -74,7 +74,7 @@
       </ul>
     </td>
     <td width="33%">
-      <h4>🐟 Smart Fish Feeder</h4>
+      <p align="left"><strong>🐟 Smart Fish Feeder</strong></p>
       <ul>
         <li>Firebase + React</li>
         <li>Online Feeding Control</li>
@@ -83,7 +83,7 @@
       </ul>
     </td>
     <td width="33%">
-      <h4>🔐 LockSense</h4>
+      <p align="left"><strong>🔐 LockSense</strong></p>
       <ul>
         <li>RFID + RSA Key Authentication</li>
         <li>Secure Door Access System</li>
@@ -97,7 +97,7 @@
 
   <tr>
     <td width="33%">
-      <h4>🖼️ Artosite</h4>
+      <p align="left"><strong>🖼️ Artosite</strong></p>
       <ul>
         <li>React-Based Art Marketplace</li>
         <li>Buy & Sell Paintings Online</li>
@@ -106,7 +106,7 @@
       </ul>
     </td>
     <td width="33%">
-      <h4>🏢 SecureSense</h4>
+      <p align="left"><strong>🏢 SecureSense</strong></p>
       <ul>
         <li>React + Firebase</li>
         <li>PT. Citra Pratama's Indoor Air Monitoring</li>
@@ -115,7 +115,7 @@
       </ul>
     </td>
     <td width="33%">
-      <h4>🏘️ Website Kec. Bintan Timur</h4>
+      <p align="left"><strong>🏘️ Website Kec. Bintan Timur</strong></p>
       <ul>
         <li>Bootstrap + PHP + WordPress</li>
         <li>Manage Village Data & News</li>
