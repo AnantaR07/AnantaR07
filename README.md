@@ -1,4 +1,5 @@
-<p align="center" style="font-size:48px; font-weight:bold;">Hi 👋, I'm Ananta</p>
+<p align="center"><strong><em>🚀 Hi 👋, I'm Ananta</em></strong></p>
+
 
 <p align="center">🚀 Web Developer | 📱 Android Developer | 🔧 IoT Enthusiast</p>
 
