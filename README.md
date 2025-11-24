@@ -202,16 +202,17 @@
 <p align="left"><strong><em>📫 Contact Me</em></strong></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ananta-r/" target="_blank" style="display:inline-block;margin:4px;">
+  <a href="https://www.linkedin.com/in/ananta-r/" target="_blank" style="display:inline-block;margin:0 12px;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" />
   </a>
-  <a href="mailto:ananta076238@gmail.com" target="_blank" style="display:inline-block;margin:4px;">
+  <a href="mailto:ananta076238@gmail.com" target="_blank" style="display:inline-block;margin:0 12px;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" />
   </a>
-  <a href="https://wa.me/6287750704842" target="_blank" style="display:inline-block;margin:4px;">
+  <a href="https://wa.me/6287750704842" target="_blank" style="display:inline-block;margin:0 12px;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="40" height="40" />
   </a>
 </p>
+
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ananta.ananta&" />
