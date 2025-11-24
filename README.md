@@ -157,6 +157,37 @@
 </td>
   </tr>
 
+  <tr><td colspan="3" height="20"></td></tr>
+
+<tr>
+    <td width="33%">
+  <p align="left"><strong>🧾 Splitease</strong></p>
+  <ul>
+    <li>Smart Split Bill Web App</li>
+    <li>Helps divide expenses quickly and fairly</li>
+    <li>Easy, intuitive, and modern interface</li>
+    <li><a href="https://github.com/AnantaR07/Splitease">View Project</a></li>
+  </ul>
+</td>
+<td width="33%">
+  <p align="left"><strong>🥤🥗 Rasa Tempo Dulu</strong></p>
+  <ul>
+    <li>Showcase Website for Traditional Snacks of Trenggalek</li>
+    <li>Features detailed descriptions, origins, and cultural background</li>
+    <li>Includes a store finder for relevant souvenir and snack shops</li>
+    <li><a href="https://github.com/AnantaR07/RasaTempoDulu">View Project</a></li>
+  </ul>
+</td>
+<td width="33%">
+  <p align="left"><strong>🌊 Gelombang Trenggalek</strong></p>
+  <ul>
+    <li>Website showcasing Trenggalek’s iconic beach destinations</li>
+    <li>Provides details about scenery, and local attractions</li>
+    <li>Designed to help travelers explore and discover coastal tourism spots</li>
+    <li><a href="https://github.com/AnantaR07/GelombangTrenggalek">View Project</a></li>
+  </ul>
+</td>
+  </tr>
 
 </table>
 </div>
