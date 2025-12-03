@@ -189,6 +189,19 @@
 </td>
   </tr>
 
+  <tr>
+<td width="33%">
+  <p align="left"><strong>🤖 NAN AI Assistant</strong></p>
+  <ul>
+    <li>Intelligent Web-based Chat AI</li>
+    <li>Helps answer questions quickly and accurately</li>
+    <li>Built with modern UI and real-time responses</li>
+    <li><a href="https://github.com/AnantaR07/NAN_Assistant">View Project</a></li>
+  </ul>
+</td>
+  </tr>
+
+
 </table>
 </div>
 
