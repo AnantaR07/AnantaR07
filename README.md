@@ -199,8 +199,67 @@
     <li><a href="https://github.com/AnantaR07/NAN_Assistant">View Project</a></li>
   </ul>
 </td>
+    <td width="33%">
+  <p align="left"><strong>📚 ReadRoom - Smart Online Library System</strong></p>
+  <ul>
+    <li>Modern web-based digital library management system</li>
+    <li>Allows users to browse, search, and access digital reading materials efficiently</li>
+    <li>Built with an intuitive interface to enhance the online reading experience</li>
+    <li><a href="https://github.com/AnantaR07/ReadRoom">View Project</a></li>
+  </ul>
+</td>
+   <td width="33%">
+  <p align="left"><strong>💰 Cashly - Financial Monitoring System</strong></p>
+  <ul>
+    <li>Smart web-based personal finance management platform</li>
+    <li>Tracks income, expenses, and financial activities in real time</li>
+    <li>Provides financial reports and interactive dashboards for better decision-making</li>
+    <li><a href="https://github.com/AnantaR07/Cashly">View Project</a></li>
+  </ul>
+</td>
   </tr>
 
+   <tr>
+<td width="33%">
+  <p align="left"><strong>✈️ El Trans Solution Travel & Tour</strong></p>
+  <ul>
+    <li>Modern online travel and transportation booking platform</li>
+    <li>Provides intercity travel, airport transfers, and private charter services</li>
+    <li>Features route selection, departure schedules, fare information, and WhatsApp booking integration</li>
+    <li><a href="https://github.com/AnantaR07/El-Trans-Solution-Travel">View Project</a></li>
+  </ul>
+</td>
+   <td width="33%">
+  <p align="left"><strong>🔥 Air Kitchen - Smart Fire Monitoring</strong></p>
+  <ul>
+    <li>IoT-based smoke and fire detection system</li>
+    <li>Monitors air quality and detects potential fire hazards</li>
+    <li>Provides real-time alerts and monitoring dashboard</li>
+    <li><a href="https://github.com/AnantaR07/Air-Kitchen">View Project</a></li>
+  </ul>
+   </td>
+<td width="33%">
+  <p align="left"><strong>🌊 Smart Flood Monitoring System</strong></p>
+  <ul>
+    <li>IoT-based flood early warning system</li>
+    <li>Monitors water levels in real time</li>
+    <li>Sends notifications when flood risk thresholds are exceeded</li>
+    <li><a href="https://github.com/AnantaR07/Smart-Flood-Monitoring-System">View Project</a></li>
+  </ul>
+</td>
+  </tr>
+
+ <tr>
+<td width="33%">
+  <p align="left"><strong>📋 BukuTamu Digital</strong></p>
+  <ul>
+    <li>Digital visitor management and registration system</li>
+    <li>Records and monitors visitor data efficiently</li>
+    <li>Generates organized visit reports and histories</li>
+    <li><a href="https://github.com/AnantaR07/BukuTamu">View Project</a></li>
+  </ul>
+</td>
+  </tr>
 
 </table>
 </div>
