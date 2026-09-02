@@ -250,8 +250,73 @@
     <li><a href="https://github.com/AnantaR07/BukuTamu">View Project</a></li>
   </ul>
 </td>
+<td width="33%">
+  <p align="left"><strong>📚 EssayQuiz-LHO</strong></p>
+  <ul>
+    <li>Interactive essay quiz application for Laporan Hasil Observasi (LHO) learning material</li>
+    <li>Helps students practice answering analytical and descriptive questions</li>
+    <li>Provides an engaging digital learning experience for Indonesian language education</li>
+    <li>
+      <a href="https://github.com/AnantaR07/EssayQuiz-LHO">
+        View Project
+      </a>
+    </li>
+  </ul>
+</td>
+
+<td width="33%">
+  <p align="left"><strong>📖 EssayQuiz-Anekdot</strong></p>
+  <ul>
+    <li>Interactive essay quiz application focused on Indonesian anecdotal text material</li>
+    <li>Designed to help students understand text structure, language features, and critical analysis</li>
+    <li>Supports interactive and engaging digital learning activities</li>
+    <li>
+      <a href="https://github.com/AnantaR07/EssayQuiz-Anekdot">
+        View Project
+      </a>
+    </li>
+  </ul>
+</td>
   </tr>
 
+<tr>
+<td width="33%">
+  <p align="left"><strong>📋 BukuTamu Digital</strong></p>
+  <ul>
+    <li>Digital visitor management and registration system</li>
+    <li>Records and monitors visitor data efficiently</li>
+    <li>Generates organized visit reports and histories</li>
+    <li><a href="https://github.com/AnantaR07/BukuTamu">View Project</a></li>
+  </ul>
+</td>
+<td width="33%">
+  <p align="left"><strong>📚 EssayQuiz-LHO</strong></p>
+  <ul>
+    <li>Interactive essay quiz application for Laporan Hasil Observasi (LHO) learning material</li>
+    <li>Helps students practice answering analytical and descriptive questions</li>
+    <li>Provides an engaging digital learning experience for Indonesian language education</li>
+    <li>
+      <a href="https://github.com/AnantaR07/EssayQuiz-LHO">
+        View Project
+      </a>
+    </li>
+  </ul>
+</td>
+
+<td width="33%">
+  <p align="left"><strong>📖 EssayQuiz-Anekdot</strong></p>
+  <ul>
+    <li>Interactive essay quiz application focused on Indonesian anecdotal text material</li>
+    <li>Designed to help students understand text structure, language features, and critical analysis</li>
+    <li>Supports interactive and engaging digital learning activities</li>
+    <li>
+      <a href="https://github.com/AnantaR07/EssayQuiz-Anekdot">
+        View Project
+      </a>
+    </li>
+  </ul>
+</td>
+  </tr>
 </table>
 </div>
 
