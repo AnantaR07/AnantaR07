@@ -50,15 +50,6 @@
 
 ---
 
-<p align="left"><strong><em>📊 GitHub Stats</em></strong></p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ananta&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura_dark&locale=en&hide_border=false&order=1" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ananta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura_dark&hide_border=false&order=2" height="150" />
-</p>
-
----
-
 <p align="left"><strong><em>✨ My Projects</em></strong></p>
 
 <div style="overflow-x:auto;">
