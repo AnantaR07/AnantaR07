@@ -56,12 +56,12 @@
 <table>
   <tr>
     <td width="33%">
-     <p align="left"><strong>🌬📱 Air Monitoring at Dr. Soedarmo Hospital, Trenggalek</strong></p>
+     <p align="left"><strong>🌬📱 Hospital Air Quality Monitoring</strong></p>
       <ul>
         <li>ESP32 + Laravel</li>
         <li>Telegram Notification</li>
         <li>Sensor: PM2.5, CO, VOC, Temperature & Air Humidity</li>
-        <li><a href="https://github.com/AnantaR07/AnantaR07-Pemantauan-Udara-Rumah-Sakit-Dr.Soedarmo-Trenggalek">View Project</a></li>
+        <li><a href="https://github.com/AnantaR07/Hospital-Air-Quality-Monitoring">View Project</a></li>
       </ul>
     </td>
     <td width="33%">
@@ -106,12 +106,12 @@
       </ul>
     </td>
     <td width="33%">
-      <p align="left"><strong>🏘️ Website Kec. Bintan Timur</strong></p>
+      <p align="left"><strong>🏘️ Bintan Timur District Information System</strong></p>
       <ul>
         <li>Bootstrap + PHP + WordPress</li>
         <li>Manage Village Data & News</li>
         <li>Custom Table & Shortcode</li>
-        <li><a href="https://github.com/AnantaR07/websitekecamatanbintantimur">View Project</a></li>
+        <li><a href="https://github.com/AnantaR07/Bintan-Timur-District-Information-System">View Project</a></li>
       </ul>
     </td>
   </tr>
@@ -120,7 +120,7 @@
 
 <tr>
     <td width="33%">
-  <p align="left"><strong>🫁 Lunas</strong></p>
+  <p align="left"><strong>🫁 Lunas-LudoCerdas</strong></p>
   <ul>
     <li>Dart-Based Educational Game</li>
     <li>Focuses on Human Respiratory System</li>
@@ -138,7 +138,7 @@
   </ul>
 </td>
   <td width="33%">
-  <p align="left"><strong>🧵 Creaftyartisan</strong></p>
+  <p align="left"><strong>🧵 Macro-CreaftyArtisan</strong></p>
   <ul>
     <li>PHP + MySQL + Bootstrap</li>
     <li>Online Marketplace for Handmade Crafts</li>
