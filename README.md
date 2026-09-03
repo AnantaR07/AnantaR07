@@ -221,7 +221,7 @@
   </ul>
 </td>
    <td width="33%">
-  <p align="left"><strong>🔥 Air Kitchen - Smart Fire Monitoring</strong></p>
+  <p align="left"><strong>🔥 SafeGas-Kitchen</strong></p>
   <ul>
     <li>IoT-based smoke and fire detection system</li>
     <li>Monitors air quality and detects potential fire hazards</li>
@@ -281,12 +281,12 @@
 
 <tr>
 <td width="33%">
-  <p align="left"><strong>📋 BukuTamu Digital</strong></p>
+  <p align="left"><strong>🌬️ Airsense Satya Dharma Bhakti</strong></p>
   <ul>
-    <li>Digital visitor management and registration system</li>
-    <li>Records and monitors visitor data efficiently</li>
-    <li>Generates organized visit reports and histories</li>
-    <li><a href="https://github.com/AnantaR07/BukuTamu">View Project</a></li>
+    <li>IoT-based air quality monitoring system integrated with a web application</li>
+    <li>Monitors environmental parameters and air quality data in real-time</li>
+    <li>Provides data visualization and monitoring information through a responsive dashboard</li>
+    <li><a href="https://github.com/AnantaR07/AirsenseSatyaDharmaBhakti">View Project</a></li>
   </ul>
 </td>
 <td width="33%">
@@ -314,6 +314,61 @@
         View Project
       </a>
     </li>
+  </ul>
+</td>
+  </tr>
+
+  
+<tr>
+<td width="33%">
+  <p align="left"><strong>🏠 3D Room C++</strong></p>
+  <ul>
+    <li>3D room visualization project developed using C++</li>
+    <li>Implements computer graphics concepts to create interactive 3D environments</li>
+    <li>Demonstrates object modeling, lighting, and spatial visualization techniques</li>
+    <li><a href="https://github.com/AnantaR07/3D-Room-CPP">View Project</a></li>
+  </ul>
+</td>
+<td width="33%">
+  <p align="left"><strong>🌴 Explore Batam</strong></p>
+  <ul>
+    <li>Tourism information website showcasing destinations and attractions in Batam</li>
+    <li>Provides information about popular tourist destinations and local attractions</li>
+    <li>Designed with an engaging and user-friendly interface for exploring Batam</li>
+    <li><a href="https://github.com/AnantaR07/Explore-Batam">View Project</a></li>
+  </ul>
+</td>
+<td width="33%">
+  <p align="left"><strong>📦 BTIKP Asset Borrowing System</strong></p>
+  <ul>
+    <li>Digital asset borrowing and management system for BTIKP</li>
+    <li>Manages asset inventory, borrowing requests, and return records</li>
+    <li>Helps organize and monitor asset usage efficiently</li>
+    <li>Provides a structured interface for managing borrowing activities</li>
+    <li><a href="https://github.com/AnantaR07/BTIKP-Asset-Borrowing-System">View Project</a></li>
+  </ul>
+</td>
+  </tr>
+
+  <tr>
+<td width="33%">
+  <p align="left"><strong>💍 Our Wedding Adventure</strong></p>
+  <ul>
+    <li>Interactive wedding website presented as a story-based adventure game</li>
+    <li>Features character selection, interactive story chapters, quests, and boss battles</li>
+    <li>Combines wedding information with an engaging game-inspired user experience</li>
+    <li>Includes interactive animations, sound effects, and persistent game progress</li>
+    <li><a href="https://github.com/AnantaR07/our-wedding-adventure">View Project</a></li>
+  </ul>
+</td>
+<td width="33%">
+  <p align="left"><strong>💡 Moho Lighting System</strong></p>
+  <ul>
+    <li>Lighting and shadow system developed for Moho animation projects</li>
+    <li>Implements dynamic lighting, shadows, highlights, and ground contact shadows</li>
+    <li>Designed to enhance lighting effects and visual depth in 2D animation scenes</li>
+    <li>Provides customizable lighting parameters for animation workflows</li>
+    <li><a href="https://github.com/AnantaR07/moho-lighting-system">View Project</a></li>
   </ul>
 </td>
   </tr>
