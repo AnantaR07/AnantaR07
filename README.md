@@ -371,6 +371,16 @@
     <li><a href="https://github.com/AnantaR07/moho-lighting-system">View Project</a></li>
   </ul>
 </td>
+    <td width="33%">
+  <p align="left"><strong>🌱 Smart Plant Water Monitoring</strong></p>
+  <ul>
+    <li>IoT-based plant monitoring and automatic watering system with an Android application</li>
+    <li>Monitors soil moisture and plant watering conditions in real-time</li>
+    <li>Provides remote control and monitoring through a mobile application</li>
+    <li>Integrates IoT devices with cloud-based data management for smart plant care</li>
+    <li><a href="https://github.com/AnantaR07/Smart-Plant-Water-Monitoring-Android">View Project</a></li>
+  </ul>
+</td>
   </tr>
 </table>
 </div>
