@@ -382,6 +382,19 @@
   </ul>
 </td>
   </tr>
+
+  <tr>
+<td width="33%">
+  <p align="left"><strong>🍗 Crunchpy</strong></p>
+  <ul>
+    <li>Online fried chicken ordering platform with a convenient delivery service concept</li>
+    <li>Allows customers to explore menus, select products, and place orders online</li>
+    <li>Designed with a responsive and user-friendly interface for an engaging ordering experience</li>
+    <li>Supports digital food sales and improves customer accessibility through online services</li>
+    <li><a href="https://github.com/AnantaR07/Crunchpy">View Project</a></li>
+  </ul>
+</td>
+  </tr>
 </table>
 </div>
 
